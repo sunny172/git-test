@@ -10,4 +10,7 @@ public class FileClass {
         System.out.println("Hello Test Git");
         System.out.println("Hello Test Git");
     }
+    public void method(){
+        System.out.println("方法");
+    }
 }
